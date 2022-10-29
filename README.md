@@ -23,6 +23,11 @@ This project mainly focuses on handling imbalanced datasets and detecting credit
 These models are fittted to different datasets acquired after StandardScaler, Oversampling, Undersampling and SMOTE techniques.
 Thus, separate files are created for each Machine Learning Models so that every datasets acquired after above mentioned techniques are fitted separately to our model using single function.
 
+## HOW TO START ? 
+
+### Start with`main.ipymb` first and go to any model files.
+
+main.ipynb - It contains all the processes of loading of datasets, preprocessing and EDA & Visualization. 
 
 ### ABOUT DATASETS: 
 
@@ -57,6 +62,8 @@ Feature `Class` is the response variable and it takes value 1 in case of fraud a
 
 
 #### JUST HAVE A CUP OF COFFEE IN FRONT OF YOU AND EXOLORE 😊 !!! 
+
+## FILES 
 
 ### YOUTUBE CHANNEL -- 64bitCODING
 
