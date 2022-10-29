@@ -58,7 +58,6 @@ Feature `Class` is the response variable and it takes value 1 in case of fraud a
 
 #### JUST HAVE A CUP OF COFFEE IN FRONT OF YOU AND EXOLORE 😊 !!! 
 
-## `Let's Dive into the project` 👇
 ### YOUTUBE CHANNEL -- 64bitCODING
 
 link: https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
