@@ -25,7 +25,7 @@ Thus, separate files are created for each Machine Learning Models so that every 
 
 ## HOW TO START ? 
 
-### Start with`main.ipymb` first and go to any model files.
+### Start with`main.ipynb` first and go to any model files.
 
 main.ipynb - It contains all the processes of loading of datasets, preprocessing and EDA & Visualization. 
 
